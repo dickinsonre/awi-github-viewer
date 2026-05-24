@@ -1,0 +1,729 @@
+# Open-Source-Support Repository Files
+
+Generated: 5/23/2026, 7:31:07 PM
+Total files: 509
+
+---
+
+- **Open-Source-Support/**
+  - **01 InfoWorks ICM/**
+    - **01 Ruby/**
+      - **01 InfoWorks/**
+        - **0001 - Decrease Manning's n roughness in all the river reaches/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0001%20-%20Decrease%20Manning%27s%20n%20roughness%20in%20all%20the%20river%20reaches/UI_script.rb) (429 B)
+        - **0002 - Runoff surfaces from selected subcatchments/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0002%20-%20Runoff%20surfaces%20from%20selected%20subcatchments/UI_script.rb) (939 B)
+        - **0003 - Find parent Model Group ID/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0003%20-%20Find%20parent%20Model%20Group%20ID/UI_script.rb) (497 B)
+        - **0004 - Connect subcatchment to nearest node/**
+          - [Connect subcatchment to nearest node._low_ground_level.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0004%20-%20Connect%20subcatchment%20to%20nearest%20node/Connect%20subcatchment%20to%20nearest%20node._low_ground_level.rb) (2.2 KB)
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0004%20-%20Connect%20subcatchment%20to%20nearest%20node/UI_script.rb) (2.2 KB)
+        - **0005 - Trace network from selection/**
+          - [UI_Script_v1.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0005%20-%20Trace%20network%20from%20selection/UI_Script_v1.rb) (1.5 KB)
+          - [UI_Script_v2.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0005%20-%20Trace%20network%20from%20selection/UI_Script_v2.rb) (579 B)
+          - [UI_Script_v3.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0005%20-%20Trace%20network%20from%20selection/UI_Script_v3.rb) (628 B)
+          - [UI_Script_v4.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0005%20-%20Trace%20network%20from%20selection/UI_Script_v4.rb) (628 B)
+        - **0006 - Copy a run and set 'Working' flag/**
+          - [EX_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0006%20-%20Copy%20a%20run%20and%20set%20%27Working%27%20flag/EX_script.rb) (951 B)
+        - **0007 - Running simulations/**
+          - [EX_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0007%20-%20Running%20simulations/EX_script.rb) (2.3 KB)
+        - **0008 - List all results fields in a simulation/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0008%20-%20List%20all%20results%20fields%20in%20a%20simulation/UI_script.rb) (430 B)
+        - **0009 - Export binary results/**
+          - [EX_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0009%20-%20Export%20binary%20results/EX_script.rb) (14.8 KB)
+        - **0010 - Create selection list of reverse slope pipes/**
+          - [Create Selection List of Reverse Slope Pipes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0010%20-%20Create%20selection%20list%20of%20reverse%20slope%20pipes/Create%20Selection%20List%20of%20Reverse%20Slope%20Pipes.rb) (2.0 KB)
+        - **0011 - Find Root Model Group/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0011%20-%20Find%20Root%20Model%20Group/UI_script.rb) (944 B)
+        - **0012 - Export node and conduit tables to CSV and MIF/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0012%20-%20Export%20node%20and%20conduit%20tables%20to%20CSV%20and%20MIF/UI_script.rb) (1.0 KB)
+        - **0013 - Set subcatchment drying time and commit changes/**
+          - [UI_Drying Time.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0013%20-%20Set%20subcatchment%20drying%20time%20and%20commit%20changes/UI_Drying%20Time.rb) (525 B)
+        - **0014 - Find all flags in all objects of a network model/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0014%20-%20Find%20all%20flags%20in%20all%20objects%20of%20a%20network%20model/UI_script.rb) (406 B)
+        - **0015 - Import or Export RTC to txt/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0015%20-%20Import%20or%20Export%20RTC%20to%20txt/UI_script.rb) (924 B)
+        - **0016 - Example ODEC callback scripts/**
+          - [ODEC_Offset_x_y.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0016%20-%20Example%20ODEC%20callback%20scripts/ODEC_Offset_x_y.rb) (130 B)
+          - [ODEC_RTK_SumArea.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0016%20-%20Example%20ODEC%20callback%20scripts/ODEC_RTK_SumArea.rb) (662 B)
+          - [ODEC_simresults.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0016%20-%20Example%20ODEC%20callback%20scripts/ODEC_simresults.rb) (74 B)
+          - [ODSC_point_arrays.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0016%20-%20Example%20ODEC%20callback%20scripts/ODSC_point_arrays.rb) (130 B)
+        - **0017 - Create a node from polygon boundary/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0017%20-%20Create%20a%20node%20from%20polygon%20boundary/UI_script.rb) (406 B)
+        - **0018 - Checking conveyance using Ruby/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0018%20-%20Checking%20conveyance%20using%20Ruby/UI_script.rb) (540 B)
+        - **0019 - River reach bank spacing/**
+          - [RR_Left_Bank Spacing.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0019%20-%20River%20reach%20bank%20spacing/RR_Left_Bank%20Spacing.rb) (692 B)
+          - [RR_Right_Bank Spacing.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0019%20-%20River%20reach%20bank%20spacing/RR_Right_Bank%20Spacing.rb) (694 B)
+        - **0020 - Set river reach section ends to bank level/**
+          - [RR_Banks to XS ends.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0020%20-%20Set%20river%20reach%20section%20ends%20to%20bank%20level/RR_Banks%20to%20XS%20ends.rb) (1.2 KB)
+        - **0021 - Populate conduit inverts with cross section elevations/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0021%20-%20Populate%20conduit%20inverts%20with%20cross%20section%20elevations/UI_Script.rb) (574 B)
+        - **0022 - Output CSV of calcs based on Subcatchment Data/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0022%20-%20Output%20CSV%20of%20calcs%20based%20on%20Subcatchment%20Data/UI_script.rb) (4.0 KB)
+        - **0023 - Import ground model/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0023%20-%20Import%20ground%20model/UI_script.rb) (919 B)
+        - **0024 - List all results fields in a Simulation/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0024%20-%20List%20all%20results%20fields%20in%20a%20Simulation/UI_script.rb) (1.0 KB)
+        - **0025 - Recursively find model network/**
+          - [EX_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0025%20-%20Recursively%20find%20model%20network/EX_script.rb) (471 B)
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0025%20-%20Recursively%20find%20model%20network/UI_script.rb) (1.4 KB)
+        - **0026 - Export to geodatabase/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0026%20-%20Export%20to%20geodatabase/UI_script.rb) (1.3 KB)
+        - **0027 - Copy a subcatchment and rename it/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0027%20-%20Copy%20a%20subcatchment%20and%20rename%20it/UI_script.rb) (1.1 KB)
+        - **0028 - Percentage change in runoff surfaces upstream node into new scenario/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0028%20-%20Percentage%20change%20in%20runoff%20surfaces%20upstream%20node%20into%20new%20scenario/UI_script.rb) (2.1 KB)
+        - **0029 - Subcatchment parameter statistics/**
+          - [hw_UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0029%20-%20Subcatchment%20parameter%20statistics/hw_UI_Script.rb) (3.6 KB)
+        - **0030 - Maintain only first and last river reach sections/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0030%20-%20Maintain%20only%20first%20and%20last%20river%20reach%20sections/UI_script.rb) (1.3 KB)
+        - **0031 - Replace flag in all objects in a model network/**
+          - [UI_script_v1.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0031%20-%20Replace%20flag%20in%20all%20objects%20in%20a%20model%20network/UI_script_v1.rb) (648 B)
+          - [UI_script_v2.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0031%20-%20Replace%20flag%20in%20all%20objects%20in%20a%20model%20network/UI_script_v2.rb) (1.6 KB)
+        - **0032 - List complete database objects contents/**
+          - [UIIE-DatabaseContents.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0032%20-%20List%20complete%20database%20objects%20contents/UIIE-DatabaseContents.rb) (1.2 KB)
+          - [UIIE-DatabaseSummary.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0032%20-%20List%20complete%20database%20objects%20contents/UIIE-DatabaseSummary.rb) (1.1 KB)
+        - **0033 - Export a tree object file/**
+          - **Rainfall/**
+            - [exchange_test.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0033%20-%20Export%20a%20tree%20object%20file/Rainfall/exchange_test.rb) (223 B)
+          - **WWF/**
+            - [exchange_test.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0033%20-%20Export%20a%20tree%20object%20file/WWF/exchange_test.rb) (217 B)
+        - **0034 - Check simulation status/**
+          - [create_new_wds_database.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0034%20-%20Check%20simulation%20status/create_new_wds_database.rb) (793 B)
+          - [icmbinary.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0034%20-%20Check%20simulation%20status/icmbinary.rb) (1.0 KB)
+        - **0035 - Copy data between Databases/**
+          - **Batch copy to Cloud/**
+            - [Batch_copy_all_to_cloud.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0035%20-%20Copy%20data%20between%20Databases/Batch%20copy%20to%20Cloud/Batch_copy_all_to_cloud.rb) (2.5 KB)
+            - [Copy_all_to_cloud.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0035%20-%20Copy%20data%20between%20Databases/Batch%20copy%20to%20Cloud/Copy_all_to_cloud.rb) (1.5 KB)
+          - **Copy to Cloud/**
+            - [Copy_all_to_cloud.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0035%20-%20Copy%20data%20between%20Databases/Copy%20to%20Cloud/Copy_all_to_cloud.rb) (1.2 KB)
+            - [Copy_individual_group_to_cloud.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0035%20-%20Copy%20data%20between%20Databases/Copy%20to%20Cloud/Copy_individual_group_to_cloud.rb) (415 B)
+          - **From Standalone to Transportable/**
+            - [EX_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0035%20-%20Copy%20data%20between%20Databases/From%20Standalone%20to%20Transportable/EX_script.rb) (754 B)
+          - **From Workgroup to Transportable/**
+            - [Copy_all_to_new_Transportable.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0035%20-%20Copy%20data%20between%20Databases/From%20Workgroup%20to%20Transportable/Copy_all_to_new_Transportable.rb) (1.2 KB)
+        - **0036 - Export CSV with QM results from UI/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0036%20-%20Export%20CSV%20with%20QM%20results%20from%20UI/UI_script.rb) (858 B)
+        - **0037 - Rerunning existing simulation/**
+          - [EX_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0037%20-%20Rerunning%20existing%20simulation/EX_script.rb) (574 B)
+        - **0038 - Querying simulation objects/**
+          - [EX_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0038%20-%20Querying%20simulation%20objects/EX_script.rb) (915 B)
+        - **0039 - Calculate subcatchment areas in all nodes upstream a node/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0039%20-%20Calculate%20subcatchment%20areas%20in%20all%20nodes%20upstream%20a%20node/UI_Script.rb) (2.1 KB)
+        - **0040 - Create a new selection list using a SQL query/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0040%20-%20Create%20a%20new%20selection%20list%20using%20a%20SQL%20query/UI_Script.rb) (267 B)
+        - **0041 - Minimum and maximum elevation of river reach section at node/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0041%20-%20Minimum%20and%20maximum%20elevation%20of%20river%20reach%20section%20at%20node/UI_Script.rb) (1006 B)
+        - **0042 - Running an Exchange script from the UI/**
+          - [EX_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0042%20-%20Running%20an%20Exchange%20script%20from%20the%20UI/EX_script.rb) (140 B)
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0042%20-%20Running%20an%20Exchange%20script%20from%20the%20UI/UI_script.rb) (458 B)
+        - **0043 - Get results from all timesteps/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0043%20-%20Get%20results%20from%20all%20timesteps/UI_script.rb) (803 B)
+        - **0044 - Trace Current Network family in database tree/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0044%20-%20Trace%20Current%20Network%20family%20in%20database%20tree/UI_script.rb) (754 B)
+        - **0045 - Clear SUDS from subcatchments/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0045%20-%20Clear%20SUDS%20from%20subcatchments/UI_Script.rb) (427 B)
+        - **0046 - Output SUDS control as CSV/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0046%20-%20Output%20SUDS%20control%20as%20CSV/UI_Script.rb) (1.3 KB)
+        - **0047 - Select links sharing the same us and ds node ids/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0047%20-%20Select%20links%20sharing%20the%20same%20us%20and%20ds%20node%20ids/UI_Script.rb) (828 B)
+        - **0048 - Delete all scenarios except Base/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0048%20-%20Delete%20all%20scenarios%20except%20Base/UI_Script.rb) (145 B)
+        - **0049 - Extract river reach results/**
+          - [EX_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0049%20-%20Extract%20river%20reach%20results/EX_script.rb) (915 B)
+        - **0050 - Assign Subcatchment to nearest 'Storage' type Node/**
+          - [Nearest Storage Node.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0050%20-%20Assign%20Subcatchment%20to%20nearest%20%27Storage%27%20type%20Node/Nearest%20Storage%20Node.rb) (935 B)
+        - **0051 - Interactive Exchange in VS Code/**
+          - **.vscode/**
+            - [repl.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0051%20-%20Interactive%20Exchange%20in%20VS%20Code/.vscode/repl.rb) (1.8 KB)
+          - [hello_world.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0051%20-%20Interactive%20Exchange%20in%20VS%20Code/hello_world.rb) (105 B)
+        - **0052 - Select flow path between two nodes/**
+          - [Select Between Nodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0052%20-%20Select%20flow%20path%20between%20two%20nodes/Select%20Between%20Nodes.rb) (2.1 KB)
+        - **0053 - Import Cross Section Data from CSV/**
+          - [CrossSectionLine_&_Data_import_tool.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0053%20-%20Import%20Cross%20Section%20Data%20from%20CSV/CrossSectionLine_&_Data_import_tool.rb) (2.5 KB)
+        - **0054 - Change Subcatchment Boundaries to a Polygon/**
+          - [UI_4_Sides_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0054%20-%20Change%20Subcatchment%20Boundaries%20to%20a%20Polygon/UI_4_Sides_script.rb) (1.3 KB)
+          - [UI_5_Sides_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0054%20-%20Change%20Subcatchment%20Boundaries%20to%20a%20Polygon/UI_5_Sides_script.rb) (1.7 KB)
+          - [UI_Generic_Sides.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0054%20-%20Change%20Subcatchment%20Boundaries%20to%20a%20Polygon/UI_Generic_Sides.rb) (1.7 KB)
+        - **0055 - Scenario Maker - Adds Ten User Defined Names/**
+          - [hw_sw_Scenario_Generator.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0055%20-%20Scenario%20Maker%20-%20Adds%20Ten%20User%20Defined%20Names/hw_sw_Scenario_Generator.rb) (715 B)
+        - **0056 - Assign Node IDs by Link Geometry/**
+          - [UI_Assign_Node_IDs_by_Link_Geometry.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0056%20-%20Assign%20Node%20IDs%20by%20Link%20Geometry/UI_Assign_Node_IDs_by_Link_Geometry.rb) (12.7 KB)
+        - **0057 - Select header nodes/**
+          - [hw_sw_Header Nodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0057%20-%20Select%20header%20nodes/hw_sw_Header%20Nodes.rb) (1.4 KB)
+        - **0058 - Select bifurcation nodes/**
+          - [hw_sw_Bifurcation Nodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0058%20-%20Select%20bifurcation%20nodes/hw_sw_Bifurcation%20Nodes.rb) (1.2 KB)
+        - **0059 - Select dry pipes/**
+          - [hw_dry pipes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0059%20-%20Select%20dry%20pipes/hw_dry%20pipes.rb) (1004 B)
+          - [sw_dry pipes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0059%20-%20Select%20dry%20pipes/sw_dry%20pipes.rb) (1006 B)
+        - **0060 - InfoSewer to InfoWorks ICM Conversion Tools/**
+          - **Archive/**
+            - **Ruby Import BASE/**
+              - [InfoSewer_to_InfoWorks_BASE.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/Archive/Ruby%20Import%20BASE/InfoSewer_to_InfoWorks_BASE.rb) (12.4 KB)
+            - **Scenario Tools/**
+              - [Create Scenarios from InfoSewer.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/Archive/Scenario%20Tools/Create%20Scenarios%20from%20InfoSewer.rb) (5.3 KB)
+              - [Import_Scenario_Data_MHHYD.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/Archive/Scenario%20Tools/Import_Scenario_Data_MHHYD.rb) (7.1 KB)
+              - [Import_Scenario_Data_PIPEHYD.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/Archive/Scenario%20Tools/Import_Scenario_Data_PIPEHYD.rb) (6.3 KB)
+              - [Import_Scenario_Data_PUMPHYD.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/Archive/Scenario%20Tools/Import_Scenario_Data_PUMPHYD.rb) (6.0 KB)
+              - [Import_Scenario_Data_WWELLHYD.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/Archive/Scenario%20Tools/Import_Scenario_Data_WWELLHYD.rb) (6.2 KB)
+              - [InfoWorks Selection Lists from Scenarios or Selection Sets.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/Archive/Scenario%20Tools/InfoWorks%20Selection%20Lists%20from%20Scenarios%20or%20Selection%20Sets.rb) (5.1 KB)
+          - **lib/**
+            - [active_selection.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/lib/active_selection.rb) (10.1 KB)
+            - [data.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/lib/data.rb) (3.4 KB)
+            - [dbf_reader.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/lib/dbf_reader.rb) (8.5 KB)
+            - [geo.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/lib/geo.rb) (14.9 KB)
+            - [prompts.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/lib/prompts.rb) (6.7 KB)
+            - [query_sets.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/lib/query_sets.rb) (11.0 KB)
+            - [scenario_import.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/lib/scenario_import.rb) (17.2 KB)
+            - [selection_sets.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/lib/selection_sets.rb) (5.4 KB)
+            - [sql_cleanup.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/lib/sql_cleanup.rb) (10.8 KB)
+          - **Pattern Import/**
+            - [Import_Patterns_to_Profiles.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/Pattern%20Import/Import_Patterns_to_Profiles.rb) (15.2 KB)
+          - [InfoSewer_Import_UI.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0060%20-%20InfoSewer%20to%20InfoWorks%20ICM%20Conversion%20Tools/InfoSewer_Import_UI.rb) (22.0 KB)
+        - **0061 - Transfer conduit user defined headloss parameters between networks/**
+          - [1_Export user defined parameters.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0061%20-%20Transfer%20conduit%20user%20defined%20headloss%20parameters%20between%20networks/1_Export%20user%20defined%20parameters.rb) (1.0 KB)
+          - [2_Import user defined parameters.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0061%20-%20Transfer%20conduit%20user%20defined%20headloss%20parameters%20between%20networks/2_Import%20user%20defined%20parameters.rb) (883 B)
+        - **0062 - Export simulation results to CSV/**
+          - [Export link results to CSV Pick Folder.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0062%20-%20Export%20simulation%20results%20to%20CSV/Export%20link%20results%20to%20CSV%20Pick%20Folder.rb) (5.9 KB)
+          - [Export link results to CSV.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0062%20-%20Export%20simulation%20results%20to%20CSV/Export%20link%20results%20to%20CSV.rb) (2.8 KB)
+        - **0063 - Scenario Maker (Names Only)/**
+          - [Scenario_Generator.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0063%20-%20Scenario%20Maker%20%28Names%20Only%29/Scenario_Generator.rb) (1.2 KB)
+        - **0064 - Trace Upstream of Selected Nodes/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0064%20-%20Trace%20Upstream%20of%20Selected%20Nodes/UI_Script.rb) (2.4 KB)
+        - **0065 - GIS Export of Data Tables/**
+          - [hw_UI-GIS_export.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0065%20-%20GIS%20Export%20of%20Data%20Tables/hw_UI-GIS_export.rb) (1.7 KB)
+          - [sw_UI-GIS_export.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0065%20-%20GIS%20Export%20of%20Data%20Tables/sw_UI-GIS_export.rb) (993 B)
+        - **0066 - Export User Fields to CSV with User Name/**
+          - [0066- Export User Fields to CSV with User Name.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0066%20-%20Export%20User%20Fields%20to%20CSV%20with%20User%20Name/0066-%20Export%20User%20Fields%20to%20CSV%20with%20User%20Name.rb) (2.6 KB)
+          - [Export link results to CSV.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0066%20-%20Export%20User%20Fields%20to%20CSV%20with%20User%20Name/Export%20link%20results%20to%20CSV.rb) (2.8 KB)
+        - **0067 - Set SWMM5 Buildup Washoff for HW_Subcatchments/**
+          - [hw_ui_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0067%20-%20Set%20SWMM5%20Buildup%20Washoff%20for%20HW_Subcatchments/hw_ui_script.rb) (1.2 KB)
+        - **0068 - Change All Node, Subs and Link IDs/**
+          - [hw_change All Node, Subs and Link ID.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0068%20-%20Change%20All%20Node,%20Subs%20and%20Link%20IDs/hw_change%20All%20Node,%20Subs%20and%20Link%20ID.rb) (1.0 KB)
+          - [sw_change All Node, Subs and Link ID.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0068%20-%20Change%20All%20Node,%20Subs%20and%20Link%20IDs/sw_change%20All%20Node,%20Subs%20and%20Link%20ID.rb) (1.0 KB)
+        - **0069 - Exporting and Importing Event Files/**
+          - [main.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0069%20-%20Exporting%20and%20Importing%20Event%20Files/main.rb) (741 B)
+        - **0070 - Create selection list from CSV/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0070%20-%20Create%20selection%20list%20from%20CSV/UI_Script.rb) (3.3 KB)
+        - **0071 - Run Python Scripts From UI/**
+          - [ui.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0071%20-%20Run%20Python%20Scripts%20From%20UI/ui.rb) (2.0 KB)
+        - **0072 - Access link geometry data/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0072%20-%20Access%20link%20geometry%20data/UI_Script.rb) (395 B)
+        - **0073 - Populate storage array data/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0073%20-%20Populate%20storage%20array%20data/UI_Script.rb) (2.1 KB)
+        - **0074 - Remove bank line Z values that don't match cross section line ends/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0074%20-%20Remove%20bank%20line%20Z%20values%20that%20don%27t%20match%20cross%20section%20line%20ends/UI_script.rb) (2.1 KB)
+        - **0075 - Find the longest upstream path of the selected node/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0075%20-%20Find%20the%20longest%20upstream%20path%20of%20the%20selected%20node/UI_script.rb) (1.8 KB)
+        - **0076 - Bulk delete existing scenarios/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0076%20-%20Bulk%20delete%20existing%20scenarios/UI_script.rb) (2.5 KB)
+        - **0077 - Convert Polygon to Mesh level zone/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0077%20-%20Convert%20Polygon%20to%20Mesh%20level%20zone/UI_script.rb) (1.2 KB)
+        - **0078 - Earthworks Cost Estimator for Pipes and Storage/**
+          - [UI_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0078%20-%20Earthworks%20Cost%20Estimator%20for%20Pipes%20and%20Storage/UI_Script.rb) (14.0 KB)
+        - **0079 - Trace all flow paths to downstream nodes/**
+          - **networks with loops/**
+            - [Trace All Contributing Upstream Paths (DFS).rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0079%20-%20Trace%20all%20flow%20paths%20to%20downstream%20nodes/networks%20with%20loops/Trace%20All%20Contributing%20Upstream%20Paths%20%28DFS%29.rb) (9.7 KB)
+          - [Trace All Paths (Bidirectional).rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0079%20-%20Trace%20all%20flow%20paths%20to%20downstream%20nodes/Trace%20All%20Paths%20%28Bidirectional%29.rb) (9.1 KB)
+          - [Trace All Paths (Upstream).rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0079%20-%20Trace%20all%20flow%20paths%20to%20downstream%20nodes/Trace%20All%20Paths%20%28Upstream%29.rb) (8.6 KB)
+        - **0080 - Create clean copy of Network/**
+          - [EX_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0080%20-%20Create%20clean%20copy%20of%20Network/EX_Script.rb) (5.6 KB)
+        - **0081 - Batch Copy Group Data/**
+          - [batch_copy_model_group.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0081%20-%20Batch%20Copy%20Group%20Data/batch_copy_model_group.rb) (5.6 KB)
+          - [test_single.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0081%20-%20Batch%20Copy%20Group%20Data/test_single.rb) (4.1 KB)
+        - **0082 - Channel and River Volume/**
+          - [Channel_Storage_Volume.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0082%20-%20Channel%20and%20River%20Volume/Channel_Storage_Volume.rb) (5.4 KB)
+          - [River_Reach_Storage_Volume.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0082%20-%20Channel%20and%20River%20Volume/River_Reach_Storage_Volume.rb) (10.8 KB)
+        - **0083 - ODEC Export Subcatchments/**
+          - [IE-odec_export_subcatchments_from_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0083%20-%20ODEC%20Export%20Subcatchments/IE-odec_export_subcatchments_from_csv.rb) (4.4 KB)
+        - **0084 - Export Import Rainfall Events via RED files/**
+          - [hw_export_rainfall_events_to_red.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0084%20-%20Export%20Import%20Rainfall%20Events%20via%20RED%20files/hw_export_rainfall_events_to_red.rb) (12.3 KB)
+          - [hw_import_rainfall_events_from_red.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0084%20-%20Export%20Import%20Rainfall%20Events%20via%20RED%20files/hw_import_rainfall_events_from_red.rb) (15.8 KB)
+        - **0085 - Graphs Syntax/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0085%20-%20Graphs%20Syntax/UI_script.rb) (2.2 KB)
+        - **0086 - Create a Mesh/**
+          - [EX_Script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0086%20-%20Create%20a%20Mesh/EX_Script.rb) (3.2 KB)
+        - **0087 - Flow Survey Data Importer/**
+          - [hw_flow_survey_import_exchange.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0087%20-%20Flow%20Survey%20Data%20Importer/hw_flow_survey_import_exchange.rb) (10.5 KB)
+          - [hw_flow_survey_import_ui.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0087%20-%20Flow%20Survey%20Data%20Importer/hw_flow_survey_import_ui.rb) (22.4 KB)
+        - **0087 - Graph Subcatchment Results/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0087%20-%20Graph%20Subcatchment%20Results/UI_script.rb) (6.3 KB)
+        - **0088 - Clash Detection Between Networks/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0088%20-%20Clash%20Detection%20Between%20Networks/UI_script.rb) (12.4 KB)
+        - **0089 - Check all Regulators are in RTC/**
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0089%20-%20Check%20all%20Regulators%20are%20in%20RTC/UI_script.rb) (2.5 KB)
+        - **0090 - Export Network Schema to CSV/**
+          - [Export Network Schema to CSV.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0090%20-%20Export%20Network%20Schema%20to%20CSV/Export%20Network%20Schema%20to%20CSV.rb) (2.5 KB)
+          - [Export Results Schema to CSV.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0090%20-%20Export%20Network%20Schema%20to%20CSV/Export%20Results%20Schema%20to%20CSV.rb) (2.8 KB)
+        - **0091 - Network Validation/**
+          - [EX_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0091%20-%20Network%20Validation/EX_script.rb) (1.9 KB)
+        - **0092 - Compare Model Results to Sensor Data/**
+          - [Sensor_Comparison.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0092%20-%20Compare%20Model%20Results%20to%20Sensor%20Data/Sensor_Comparison.rb) (2.8 KB)
+        - **0093 - Update Run to Latest Network Commit/**
+          - [EX_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/01%20InfoWorks/0093%20-%20Update%20Run%20to%20Latest%20Network%20Commit/EX_script.rb) (2.2 KB)
+      - **02 SWMM/**
+        - **0000 - PCSWMM Import to ICM SWMM/**
+          - [PCSWMM_Import_Exchange.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0000%20-%20PCSWMM%20Import%20to%20ICM%20SWMM/PCSWMM_Import_Exchange.rb) (23.0 KB)
+          - [PCSWMM_Import_UI.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0000%20-%20PCSWMM%20Import%20to%20ICM%20SWMM/PCSWMM_Import_UI.rb) (13.0 KB)
+        - **0001 - Element and Field Statistics/**
+          - [hw_UI_Script All Node Parameter  Statistics.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/hw_UI_Script%20All%20Node%20Parameter%20%20Statistics.rb) (3.2 KB)
+          - [hw_UI_Script InfoWorks 2D Parameter Statistics.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/hw_UI_Script%20InfoWorks%202D%20Parameter%20Statistics.rb) (4.4 KB)
+          - [hw_UI_Script Pipe Diameter Statistics.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/hw_UI_Script%20Pipe%20Diameter%20Statistics.rb) (2.1 KB)
+          - [hw_UI_Script Pipe Length Histogram.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/hw_UI_Script%20Pipe%20Length%20Histogram.rb) (1.3 KB)
+          - [hw_UI_Script Pipe Length Statistics.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/hw_UI_Script%20Pipe%20Length%20Statistics.rb) (1.6 KB)
+          - [hw_UI_script_Statistics for Link User Numbers.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/hw_UI_script_Statistics%20for%20Link%20User%20Numbers.rb) (1.8 KB)
+          - [hw_UI_script_Statistics for Node User Numbers.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/hw_UI_script_Statistics%20for%20Node%20User%20Numbers.rb) (1.7 KB)
+          - [sw_UI_Script All Node Parameter  Statistics.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/sw_UI_Script%20All%20Node%20Parameter%20%20Statistics.rb) (4.9 KB)
+          - [sw_UI_Script Depression Storage  Statistics.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/sw_UI_Script%20Depression%20Storage%20%20Statistics.rb) (1.0 KB)
+          - [sw_UI_Script Pipe Diameter Statistics.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/sw_UI_Script%20Pipe%20Diameter%20Statistics.rb) (2.1 KB)
+          - [sw_UI_Script Pipe Length Histogram.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/sw_UI_Script%20Pipe%20Length%20Histogram.rb) (1.3 KB)
+          - [sw_UI_Script Pipe Length Statistics.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/sw_UI_Script%20Pipe%20Length%20Statistics.rb) (1.6 KB)
+          - [sw_UI_script_Statistics for Link User Numbers.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/sw_UI_script_Statistics%20for%20Link%20User%20Numbers.rb) (1.8 KB)
+          - [sw_UI_script_Statistics for Node User Numbers.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0001%20-%20Element%20and%20Field%20Statistics/sw_UI_script_Statistics%20for%20Node%20User%20Numbers.rb) (1.8 KB)
+        - **0002 - Tracing Tools/**
+          - [hw_Sum_Selected_Total_Area.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0002%20-%20Tracing%20Tools/hw_Sum_Selected_Total_Area.rb) (588 B)
+          - [hw_Upstream Subcatchments from an Outfall.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0002%20-%20Tracing%20Tools/hw_Upstream%20Subcatchments%20from%20an%20Outfall.rb) (3.2 KB)
+          - [Select Upstream Subcatchments from a Node with Multilinks.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0002%20-%20Tracing%20Tools/Select%20Upstream%20Subcatchments%20from%20a%20Node%20with%20Multilinks.rb) (2.9 KB)
+          - [sw_QuickTrace.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0002%20-%20Tracing%20Tools/sw_QuickTrace.rb) (2.7 KB)
+          - [sw_Sum_Selected_Total_Area.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0002%20-%20Tracing%20Tools/sw_Sum_Selected_Total_Area.rb) (577 B)
+          - [sw_Upstream Subcatchments from an Outfall.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0002%20-%20Tracing%20Tools/sw_Upstream%20Subcatchments%20from%20an%20Outfall.rb) (3.2 KB)
+        - **0003 - Scenario Tools/**
+          - [Create Scenarios from InfoSWMM.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0003%20-%20Scenario%20Tools/Create%20Scenarios%20from%20InfoSWMM.rb) (3.8 KB)
+          - [hw_sw_new ICM Scenarios.RB](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0003%20-%20Scenario%20Tools/hw_sw_new%20ICM%20Scenarios.RB) (1.1 KB)
+          - [hw_sw_Scenario_Generator.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0003%20-%20Scenario%20Tools/hw_sw_Scenario_Generator.rb) (644 B)
+          - [InfoSWMM_DWF.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0003%20-%20Scenario%20Tools/InfoSWMM_DWF.rb) (2.6 KB)
+          - [Scenario_Generator.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0003%20-%20Scenario%20Tools/Scenario_Generator.rb) (585 B)
+          - [Scenario_Generator_specific.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0003%20-%20Scenario%20Tools/Scenario_Generator_specific.rb) (585 B)
+          - [Scenario_GeneratorAtoZ.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0003%20-%20Scenario%20Tools/Scenario_GeneratorAtoZ.rb) (1.2 KB)
+          - [Scenario_maker.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0003%20-%20Scenario%20Tools/Scenario_maker.rb) (3.2 KB)
+          - [SWMM Network Selection Lists from Scenarios or Selection Sets.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0003%20-%20Scenario%20Tools/SWMM%20Network%20Selection%20Lists%20from%20Scenarios%20or%20Selection%20Sets.rb) (4.7 KB)
+          - [UI_script Percentage change in runoff surfaces upstream node into new scenario.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0003%20-%20Scenario%20Tools/UI_script%20Percentage%20change%20in%20runoff%20surfaces%20upstream%20node%20into%20new%20scenario.rb) (3.4 KB)
+          - [UI_Script_delete_all_non_base_scenarios.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0003%20-%20Scenario%20Tools/UI_Script_delete_all_non_base_scenarios.rb) (145 B)
+        - **0004 - Scenario Sensitivity - InfoWorks/**
+          - [Scenario_GIM.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0004%20-%20Scenario%20Sensitivity%20-%20InfoWorks/Scenario_GIM.rb) (1.8 KB)
+          - [Scenario_Link_Data.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0004%20-%20Scenario%20Sensitivity%20-%20InfoWorks/Scenario_Link_Data.rb) (2.3 KB)
+        - **0005 - Import Export of Data Tables/**
+          - [all_for_one_and_one_for_all.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/all_for_one_and_one_for_all.rb) (42.2 KB)
+          - [check_fields.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/check_fields.rb) (4.6 KB)
+          - [export_hw_conduit_data_to_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/export_hw_conduit_data_to_csv.rb) (18.6 KB)
+          - [export_hw_node_data_to_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/export_hw_node_data_to_csv.rb) (19.6 KB)
+          - [export_hw_orifice_to_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/export_hw_orifice_to_csv.rb) (16.2 KB)
+          - [export_hw_pump_to_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/export_hw_pump_to_csv.rb) (16.4 KB)
+          - [export_hw_subcatchments_to_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/export_hw_subcatchments_to_csv.rb) (26.2 KB)
+          - [export_hw_weir_to_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/export_hw_weir_to_csv.rb) (17.6 KB)
+          - [export_sw_conduit_data_to_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/export_sw_conduit_data_to_csv.rb) (17.7 KB)
+          - [export_sw_node_data_to_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/export_sw_node_data_to_csv.rb) (18.3 KB)
+          - [export_sw_orifice_to_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/export_sw_orifice_to_csv.rb) (15.5 KB)
+          - [export_sw_pump_to_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/export_sw_pump_to_csv.rb) (14.7 KB)
+          - [export_sw_subcatchments_to_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/export_sw_subcatchments_to_csv.rb) (21.4 KB)
+          - [export_sw_weir_to_csv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/export_sw_weir_to_csv.rb) (16.8 KB)
+          - [hw_parameters.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/hw_parameters.rb) (144.6 KB)
+          - [hw_simulation_parameters.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/hw_simulation_parameters.rb) (4.3 KB)
+          - [hw_sw_all_table_reader.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/hw_sw_all_table_reader.rb) (22.4 KB)
+          - [hw_UI-GIS_export.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/hw_UI-GIS_export.rb) (1.7 KB)
+          - [sw_parameters.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/sw_parameters.rb) (61.8 KB)
+          - [sw_UI-GIS_export.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0005%20-%20Import%20Export%20of%20Data%20Tables/sw_UI-GIS_export.rb) (993 B)
+        - **0006 - SWMM Network Overview/**
+          - [ICM SWMM Network Overview.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0006%20-%20SWMM%20Network%20Overview/ICM%20SWMM%20Network%20Overview.rb) (13.5 KB)
+        - **0007 - Hydraulic Comparison Tools for ICM InfoWorks and SWMM/**
+          - [hw_UI_script_compare_icm_inlets_hec22_inlets.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0007%20-%20Hydraulic%20Comparison%20Tools%20for%20ICM%20InfoWorks%20and%20SWMM/hw_UI_script_compare_icm_inlets_hec22_inlets.rb) (5.1 KB)
+          - [kutter_tm Kutter Sql for ICM SWMM.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0007%20-%20Hydraulic%20Comparison%20Tools%20for%20ICM%20InfoWorks%20and%20SWMM/kutter_tm%20Kutter%20Sql%20for%20ICM%20SWMM.rb) (1.6 KB)
+          - [kutter_tm.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0007%20-%20Hydraulic%20Comparison%20Tools%20for%20ICM%20InfoWorks%20and%20SWMM/kutter_tm.rb) (2.5 KB)
+          - [tau_shear_stress.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0007%20-%20Hydraulic%20Comparison%20Tools%20for%20ICM%20InfoWorks%20and%20SWMM/tau_shear_stress.rb) (3.8 KB)
+        - **0008 - Database Field Tools for Elements and Results/**
+          - [All_Input_Variables.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/All_Input_Variables.rb) (1.8 KB)
+          - [All_Results.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/All_Results.rb) (2.3 KB)
+          - [All_Variables.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/All_Variables.rb) (769 B)
+          - [Area-Methods-UIOnly-Working.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/Area-Methods-UIOnly-Working.rb) (2.4 KB)
+          - [Change All Node and Link IDs.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/Change%20All%20Node%20and%20Link%20IDs.rb) (1.5 KB)
+          - [count_objects_in_db.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/count_objects_in_db.rb) (1.2 KB)
+          - [database_field_count.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/database_field_count.rb) (5.0 KB)
+          - [Find All Network Elements.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/Find%20All%20Network%20Elements.rb) (1.8 KB)
+          - [Flow Survey.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/Flow%20Survey.rb) (1.7 KB)
+          - [hash_sw_hw_tables.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/hash_sw_hw_tables.rb) (332 B)
+          - [hw_UI_Script  Find All Network Elements.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/hw_UI_Script%20%20Find%20All%20Network%20Elements.rb) (1.1 KB)
+          - [hw_UI_Script Stats for ICM Network Tables.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/hw_UI_Script%20Stats%20for%20ICM%20Network%20Tables.rb) (1.1 KB)
+          - [Make an Overview of All Network Elements.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/Make%20an%20Overview%20of%20All%20Network%20Elements.rb) (4.6 KB)
+          - [sw_UI_Script  Find All Network Elements.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/sw_UI_Script%20%20Find%20All%20Network%20Elements.rb) (938 B)
+          - [UI-ListCurrentNetworkFields.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/UI-ListCurrentNetworkFields.rb) (967 B)
+          - [UI-ListCurrentNetworkFields_No_User_OR_Flags.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/UI-ListCurrentNetworkFields_No_User_OR_Flags.rb) (1.8 KB)
+          - [UI-ListCurrentNetworkFieldStructure.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/UI-ListCurrentNetworkFieldStructure.rb) (2.3 KB)
+          - [UI_script List all results fields in a simulation (SWMM or ICM).rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/UI_script%20List%20all%20results%20fields%20in%20a%20simulation%20%28SWMM%20or%20ICM%29.rb) (1.2 KB)
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0008%20-%20Database%20Field%20Tools%20for%20Elements%20and%20Results/UI_script.rb) (990 B)
+        - **0009 - Polygon Subcatchment Boundary Tools/**
+          - [UI_2DMesh_Result_Points.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0009%20-%20Polygon%20Subcatchment%20Boundary%20Tools/UI_2DMesh_Result_Points.rb) (3.1 KB)
+          - [UI_Other_2D_Generic_Sides copy.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0009%20-%20Polygon%20Subcatchment%20Boundary%20Tools/UI_Other_2D_Generic_Sides%20copy.rb) (2.7 KB)
+          - [UI_Polygon_Generic_Sides.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0009%20-%20Polygon%20Subcatchment%20Boundary%20Tools/UI_Polygon_Generic_Sides.rb) (3.0 KB)
+          - [UI_script.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0009%20-%20Polygon%20Subcatchment%20Boundary%20Tools/UI_script.rb) (1.4 KB)
+          - [UI_script_Create nodes from polygon subcatchment boundary.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0009%20-%20Polygon%20Subcatchment%20Boundary%20Tools/UI_script_Create%20nodes%20from%20polygon%20subcatchment%20boundary.rb) (1.5 KB)
+          - [UI_script_Create Subs from polygon.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0009%20-%20Polygon%20Subcatchment%20Boundary%20Tools/UI_script_Create%20Subs%20from%20polygon.rb) (2.0 KB)
+        - **0010 - List all results fields with Stats/**
+          - [hw_sw_ list all results fields in a simulation and show stats.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0010%20-%20List%20all%20results%20fields%20with%20Stats/hw_sw_%20list%20all%20results%20fields%20in%20a%20simulation%20and%20show%20stats.rb) (15.8 KB)
+          - [hw_UI_script Find Time of Max DS Depth.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0010%20-%20List%20all%20results%20fields%20with%20Stats/hw_UI_script%20Find%20Time%20of%20Max%20DS%20Depth.rb) (2.7 KB)
+          - [sw_UI_script_ Raingages, All Output Parameters.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0010%20-%20List%20all%20results%20fields%20with%20Stats/sw_UI_script_%20Raingages,%20All%20Output%20Parameters.rb) (3.1 KB)
+          - [UI_script  List all results fields in a simulation ICM) and Show Subcatchment Results Stats.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0010%20-%20List%20all%20results%20fields%20with%20Stats/UI_script%20%20List%20all%20results%20fields%20in%20a%20simulation%20ICM%29%20and%20Show%20Subcatchment%20Results%20Stats.rb) (4.1 KB)
+          - [UI_script List all results fields in a simulation ICM) and Show Flap Valve Results Stats.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0010%20-%20List%20all%20results%20fields%20with%20Stats/UI_script%20List%20all%20results%20fields%20in%20a%20simulation%20ICM%29%20and%20Show%20Flap%20Valve%20Results%20Stats.rb) (4.4 KB)
+          - [UI_script List all results fields in a simulation ICM) and Show Link Results Stats.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0010%20-%20List%20all%20results%20fields%20with%20Stats/UI_script%20List%20all%20results%20fields%20in%20a%20simulation%20ICM%29%20and%20Show%20Link%20Results%20Stats.rb) (4.4 KB)
+          - [UI_script List all results fields in a simulation ICM) and Show Node Results Stats.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0010%20-%20List%20all%20results%20fields%20with%20Stats/UI_script%20List%20all%20results%20fields%20in%20a%20simulation%20ICM%29%20and%20Show%20Node%20Results%20Stats.rb) (5.1 KB)
+        - **0011 - Get results from all timesteps in the IWR File/**
+          - [hw_UI_script  Get results from all timesteps for Manholes QNODE.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0011%20-%20Get%20results%20from%20all%20timesteps%20in%20the%20IWR%20File/hw_UI_script%20%20Get%20results%20from%20all%20timesteps%20for%20Manholes%20QNODE.rb) (1.9 KB)
+          - [hw_UI_script Get results from all timesteps for Links All Params.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0011%20-%20Get%20results%20from%20all%20timesteps%20in%20the%20IWR%20File/hw_UI_script%20Get%20results%20from%20all%20timesteps%20for%20Links%20All%20Params.rb) (2.6 KB)
+          - [hw_UI_script Get results from all timesteps for Links, US Flow DS Flow.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0011%20-%20Get%20results%20from%20all%20timesteps%20in%20the%20IWR%20File/hw_UI_script%20Get%20results%20from%20all%20timesteps%20for%20Links,%20US%20Flow%20DS%20Flow.rb) (3.2 KB)
+          - [hw_UI_script Get results from all timesteps for Subcatchments All Params.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0011%20-%20Get%20results%20from%20all%20timesteps%20in%20the%20IWR%20File/hw_UI_script%20Get%20results%20from%20all%20timesteps%20for%20Subcatchments%20All%20Params.rb) (3.3 KB)
+          - [hw_UI_script_ Get results from all timesteps for Manholes All Params.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0011%20-%20Get%20results%20from%20all%20timesteps%20in%20the%20IWR%20File/hw_UI_script_%20Get%20results%20from%20all%20timesteps%20for%20Manholes%20All%20Params.rb) (3.5 KB)
+          - [hw_UI_script_All Node and Link URL Stats.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0011%20-%20Get%20results%20from%20all%20timesteps%20in%20the%20IWR%20File/hw_UI_script_All%20Node%20and%20Link%20URL%20Stats.rb) (3.6 KB)
+          - [sw_UI_script  Get results from all timesteps for Manholes All Params.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0011%20-%20Get%20results%20from%20all%20timesteps%20in%20the%20IWR%20File/sw_UI_script%20%20Get%20results%20from%20all%20timesteps%20for%20Manholes%20All%20Params.rb) (3.2 KB)
+          - [sw_UI_script  Get results from all timesteps for Subcatchments All Params.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0011%20-%20Get%20results%20from%20all%20timesteps%20in%20the%20IWR%20File/sw_UI_script%20%20Get%20results%20from%20all%20timesteps%20for%20Subcatchments%20All%20Params.rb) (2.8 KB)
+          - [sw_UI_script Get results from all timesteps for Links All Params.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0011%20-%20Get%20results%20from%20all%20timesteps%20in%20the%20IWR%20File/sw_UI_script%20Get%20results%20from%20all%20timesteps%20for%20Links%20All%20Params.rb) (3.6 KB)
+        - **0012 - ICM InfoWorks Results to SWMM5  Summary Tables/**
+          - [hw_UI_script._swmm5_link_flows_summary_table.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0012%20-%20ICM%20InfoWorks%20Results%20to%20SWMM5%20%20Summary%20Tables/hw_UI_script._swmm5_link_flows_summary_table.rb) (2.7 KB)
+          - [hw_UI_script_swmm5_node_inflows_summary_table.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0012%20-%20ICM%20InfoWorks%20Results%20to%20SWMM5%20%20Summary%20Tables/hw_UI_script_swmm5_node_inflows_summary_table.rb) (3.0 KB)
+          - [hw_UI_script_swmm5_runoff_summary_table.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0012%20-%20ICM%20InfoWorks%20Results%20to%20SWMM5%20%20Summary%20Tables/hw_UI_script_swmm5_runoff_summary_table.rb) (7.1 KB)
+        - **0013 - Copy Conduit Properties from InfoWorks to SWMM/**
+          - [sw_hw_UI_Set_Script_CN_BN.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0013%20-%20Copy%20Conduit%20Properties%20from%20InfoWorks%20to%20SWMM/sw_hw_UI_Set_Script_CN_BN.rb) (1.3 KB)
+          - [sw_UI_Get_script_CN_BN.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0013%20-%20Copy%20Conduit%20Properties%20from%20InfoWorks%20to%20SWMM/sw_UI_Get_script_CN_BN.rb) (3.8 KB)
+        - **0014 - InfoSewer to ICM Comparison Tools/**
+          - [hw_UI_script  InfoSewer Gravity Main Report, from ICM InfoWorks.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0014%20-%20InfoSewer%20to%20ICM%20Comparison%20Tools/hw_UI_script%20%20InfoSewer%20Gravity%20Main%20Report,%20from%20ICM%20InfoWorks.rb) (6.9 KB)
+          - [hw_UI_script InfoSewer Peaking Factors.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0014%20-%20InfoSewer%20to%20ICM%20Comparison%20Tools/hw_UI_script%20InfoSewer%20Peaking%20Factors.rb) (12.1 KB)
+          - [PeakingFlowCalculator.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0014%20-%20InfoSewer%20to%20ICM%20Comparison%20Tools/PeakingFlowCalculator.rb) (31.2 KB)
+          - [read_infosewer_steady_state.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0014%20-%20InfoSewer%20to%20ICM%20Comparison%20Tools/read_infosewer_steady_state.rb) (15.6 KB)
+          - [ui.script  Read InfoSewer Steady State Report File.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0014%20-%20InfoSewer%20to%20ICM%20Comparison%20Tools/ui.script%20%20Read%20InfoSewer%20Steady%20State%20Report%20File.rb) (9.2 KB)
+        - **0015 - Export SWMM5 Calibration Files/**
+          - [hw_UI_script_downstream flow.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0015%20-%20Export%20SWMM5%20Calibration%20Files/hw_UI_script_downstream%20flow.rb) (2.7 KB)
+          - [hw_UI_script_downstream_depth.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0015%20-%20Export%20SWMM5%20Calibration%20Files/hw_UI_script_downstream_depth.rb) (2.8 KB)
+          - [hw_UI_script_downstream_velocity.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0015%20-%20Export%20SWMM5%20Calibration%20Files/hw_UI_script_downstream_velocity.rb) (2.3 KB)
+          - [hw_UI_script_node_flood_depth.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0015%20-%20Export%20SWMM5%20Calibration%20Files/hw_UI_script_node_flood_depth.rb) (2.2 KB)
+          - [hw_UI_script_node_lateral_inflow.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0015%20-%20Export%20SWMM5%20Calibration%20Files/hw_UI_script_node_lateral_inflow.rb) (2.2 KB)
+          - [hw_UI_script_node_level.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0015%20-%20Export%20SWMM5%20Calibration%20Files/hw_UI_script_node_level.rb) (2.2 KB)
+          - [hw_UI_script_runoff.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0015%20-%20Export%20SWMM5%20Calibration%20Files/hw_UI_script_runoff.rb) (2.2 KB)
+          - [hw_UI_script_upstream_depth.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0015%20-%20Export%20SWMM5%20Calibration%20Files/hw_UI_script_upstream_depth.rb) (2.8 KB)
+          - [hw_UI_script_upstream_velocity.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0015%20-%20Export%20SWMM5%20Calibration%20Files/hw_UI_script_upstream_velocity.rb) (2.7 KB)
+        - **0016 - InfoSWMM and SWMM5 Tools in Ruby/**
+          - [read_swmm5_rpt.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0016%20-%20InfoSWMM%20and%20SWMM5%20Tools%20in%20Ruby/read_swmm5_rpt.rb) (25.9 KB)
+          - [sw_UI_script_Make an Inflows File from User Fields.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0016%20-%20InfoSWMM%20and%20SWMM5%20Tools%20in%20Ruby/sw_UI_script_Make%20an%20Inflows%20File%20from%20User%20Fields.rb) (24.6 KB)
+          - [UI_script InfoSWMM Subcatchment Manager Tools.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0016%20-%20InfoSWMM%20and%20SWMM5%20Tools%20in%20Ruby/UI_script%20InfoSWMM%20Subcatchment%20Manager%20Tools.rb) (3.3 KB)
+        - **0017 - Subcatchment Grid and Tabs Tools/**
+          - [change_the_runoff_surface_grid.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0017%20-%20Subcatchment%20Grid%20and%20Tabs%20Tools/change_the_runoff_surface_grid.rb) (1.9 KB)
+          - [hw_UI_script Connect subcatchment to nearest node.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0017%20-%20Subcatchment%20Grid%20and%20Tabs%20Tools/hw_UI_script%20Connect%20subcatchment%20to%20nearest%20node.rb) (1.4 KB)
+          - [hw_UI_Script_ Land Use with Runoff Surfaces Table.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0017%20-%20Subcatchment%20Grid%20and%20Tabs%20Tools/hw_UI_Script_%20Land%20Use%20with%20Runoff%20Surfaces%20Table.rb) (4.0 KB)
+          - [hw_UI_script_Copy selected subcatchments User Defined Times.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0017%20-%20Subcatchment%20Grid%20and%20Tabs%20Tools/hw_UI_script_Copy%20selected%20subcatchments%20User%20Defined%20Times.rb) (1.3 KB)
+          - [hw_UI_script_Copy selected subcatchments with user suffix.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0017%20-%20Subcatchment%20Grid%20and%20Tabs%20Tools/hw_UI_script_Copy%20selected%20subcatchments%20with%20user%20suffix.rb) (1.8 KB)
+          - [hw_UI_Script_InfoWorks Land Use Tables.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0017%20-%20Subcatchment%20Grid%20and%20Tabs%20Tools/hw_UI_Script_InfoWorks%20Land%20Use%20Tables.rb) (2.6 KB)
+          - [hw_UI_Script_Runoff Surface Tables.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0017%20-%20Subcatchment%20Grid%20and%20Tabs%20Tools/hw_UI_Script_Runoff%20Surface%20Tables.rb) (5.1 KB)
+          - [hw_UI_Script_Sub, Land Use with Runoff Surfaces Table.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0017%20-%20Subcatchment%20Grid%20and%20Tabs%20Tools/hw_UI_Script_Sub,%20Land%20Use%20with%20Runoff%20Surfaces%20Table.rb) (6.6 KB)
+          - [hw_UI_Script_Subcatchment Grid Area Table.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0017%20-%20Subcatchment%20Grid%20and%20Tabs%20Tools/hw_UI_Script_Subcatchment%20Grid%20Area%20Table.rb) (2.6 KB)
+          - [sw_UI_script Connect subcatchment to nearest node.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0017%20-%20Subcatchment%20Grid%20and%20Tabs%20Tools/sw_UI_script%20Connect%20subcatchment%20to%20nearest%20node.rb) (1.1 KB)
+          - [sw_UI_script_Copy selected subcatchments User Defined Times.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0017%20-%20Subcatchment%20Grid%20and%20Tabs%20Tools/sw_UI_script_Copy%20selected%20subcatchments%20User%20Defined%20Times.rb) (1.3 KB)
+          - [sw_UI_script_Copy selected subcatchments with user suffix.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0017%20-%20Subcatchment%20Grid%20and%20Tabs%20Tools/sw_UI_script_Copy%20selected%20subcatchments%20with%20user%20suffix.rb) (1.8 KB)
+        - **0018 - InfoWorks vs SWMM Comparison Tools/**
+          - [Compare ICM trade flow to SWMM Base Flow.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0018%20-%20InfoWorks%20vs%20SWMM%20Comparison%20Tools/Compare%20ICM%20trade%20flow%20to%20SWMM%20Base%20Flow.rb) (7.2 KB)
+          - [Compare InfoWorks to SWMM for Links.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0018%20-%20InfoWorks%20vs%20SWMM%20Comparison%20Tools/Compare%20InfoWorks%20to%20SWMM%20for%20Links.rb) (4.6 KB)
+          - [Compare InfoWorks to SWMM for Nodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0018%20-%20InfoWorks%20vs%20SWMM%20Comparison%20Tools/Compare%20InfoWorks%20to%20SWMM%20for%20Nodes.rb) (4.5 KB)
+          - [Compare InfoWorks to SWMM for Subcatchment and Node Inflows.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0018%20-%20InfoWorks%20vs%20SWMM%20Comparison%20Tools/Compare%20InfoWorks%20to%20SWMM%20for%20Subcatchment%20and%20Node%20Inflows.rb) (4.8 KB)
+          - [current_background_conduit_compare.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0018%20-%20InfoWorks%20vs%20SWMM%20Comparison%20Tools/current_background_conduit_compare.rb) (3.9 KB)
+          - [current_background_node_compare.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0018%20-%20InfoWorks%20vs%20SWMM%20Comparison%20Tools/current_background_node_compare.rb) (3.3 KB)
+          - [ICM InfoWorks vs ICM SWMM Subcatchment.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0018%20-%20InfoWorks%20vs%20SWMM%20Comparison%20Tools/ICM%20InfoWorks%20vs%20ICM%20SWMM%20Subcatchment.rb) (3.5 KB)
+          - [Model_Evaluation_Logic.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0018%20-%20InfoWorks%20vs%20SWMM%20Comparison%20Tools/Model_Evaluation_Logic.rb) (35.9 KB)
+          - [sonnet_exchange_centroid_bn_cn_networks.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0018%20-%20InfoWorks%20vs%20SWMM%20Comparison%20Tools/sonnet_exchange_centroid_bn_cn_networks.rb) (4.1 KB)
+        - **0019 - Select Dry Pipes/**
+          - [sw_dry pipes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0019%20-%20Select%20Dry%20Pipes/sw_dry%20pipes.rb) (1006 B)
+        - **0020 - Renumber All Node, Link and Subcatchment IDs/**
+          - [Change All Node and Link IDs.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0020%20-%20Renumber%20All%20Node,%20Link%20and%20Subcatchment%20IDs/Change%20All%20Node%20and%20Link%20IDs.rb) (1.1 KB)
+          - [sw_change All Node, Link and Subs ID.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0020%20-%20Renumber%20All%20Node,%20Link%20and%20Subcatchment%20IDs/sw_change%20All%20Node,%20Link%20and%20Subs%20ID.rb) (1.0 KB)
+        - **0021 - Change Subcatchment Boundary Shape/**
+          - [swmm_UI_script_ Change Subcatchment Boundaries.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0021%20-%20Change%20Subcatchment%20Boundary%20Shape/swmm_UI_script_%20Change%20Subcatchment%20Boundaries.rb) (3.2 KB)
+        - **0022 - Hackathon AWI OffShoots/**
+          - [InfoSWMM_Import_Exchange_Folder.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0022%20-%20Hackathon%20AWI%20OffShoots/InfoSWMM_Import_Exchange_Folder.rb) (62.2 KB)
+          - [InfoSWMM_Import_Exchange_Folder_Enhanced.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0022%20-%20Hackathon%20AWI%20OffShoots/InfoSWMM_Import_Exchange_Folder_Enhanced.rb) (84.8 KB)
+          - [InfoSWMM_Import_UI_Folder.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0022%20-%20Hackathon%20AWI%20OffShoots/InfoSWMM_Import_UI_Folder.rb) (18.9 KB)
+          - [InfoSWMM_Import_UI_Folder_Enhanced.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0022%20-%20Hackathon%20AWI%20OffShoots/InfoSWMM_Import_UI_Folder_Enhanced.rb) (30.9 KB)
+          - [SWMM5_Import_Exchange_Annotated.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0022%20-%20Hackathon%20AWI%20OffShoots/SWMM5_Import_Exchange_Annotated.rb) (12.7 KB)
+          - [SWMM5_Import_ICM_InfoWorks_with_Cleanup_Exchange.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0022%20-%20Hackathon%20AWI%20OffShoots/SWMM5_Import_ICM_InfoWorks_with_Cleanup_Exchange.rb) (14.5 KB)
+          - [SWMM5_Import_ICM_InfoWorks_with_Cleanup_UI.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0022%20-%20Hackathon%20AWI%20OffShoots/SWMM5_Import_ICM_InfoWorks_with_Cleanup_UI.rb) (17.7 KB)
+          - [SWMM5_Import_ICM_SWMM_with_Cleanup_Exchange.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0022%20-%20Hackathon%20AWI%20OffShoots/SWMM5_Import_ICM_SWMM_with_Cleanup_Exchange.rb) (18.3 KB)
+          - [SWMM5_Import_ICM_SWMM_with_Cleanup_UI.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0022%20-%20Hackathon%20AWI%20OffShoots/SWMM5_Import_ICM_SWMM_with_Cleanup_UI.rb) (21.7 KB)
+          - [SWMM5_Import_UI_Annotated.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0022%20-%20Hackathon%20AWI%20OffShoots/SWMM5_Import_UI_Annotated.rb) (14.0 KB)
+        - **0023 - DWF Statistics for SWMM Nodes/**
+          - [sw_UI_Script_additional_dwf_nodes_icm_swmm.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0023%20-%20DWF%20Statistics%20for%20SWMM%20Nodes/sw_UI_Script_additional_dwf_nodes_icm_swmm.rb) (1.6 KB)
+          - [sw_UI_Script_Calculate statistics for baseline data.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0023%20-%20DWF%20Statistics%20for%20SWMM%20Nodes/sw_UI_Script_Calculate%20statistics%20for%20baseline%20data.rb) (1.5 KB)
+        - **0024 - Utilities/**
+          - [Get Minimum X,Y for All Nodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0024%20-%20Utilities/Get%20Minimum%20X,Y%20for%20All%20Nodes.rb) (1.2 KB)
+          - [hw_UI_script_Add Nine 1D Results Points.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0024%20-%20Utilities/hw_UI_script_Add%20Nine%201D%20Results%20Points.rb) (2.2 KB)
+          - [ICM_Infoworks_Flows_Only.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0024%20-%20Utilities/ICM_Infoworks_Flows_Only.rb) (2.2 KB)
+          - [icm_infoworks_node_link_results_stats.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0024%20-%20Utilities/icm_infoworks_node_link_results_stats.rb) (4.9 KB)
+          - [icm_swmm_missing_link_us_ds_nodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0024%20-%20Utilities/icm_swmm_missing_link_us_ds_nodes.rb) (3.2 KB)
+          - [icm_swmm_node_link_results_stats.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0024%20-%20Utilities/icm_swmm_node_link_results_stats.rb) (5.5 KB)
+        - **0025 - Miscellaneous/**
+          - [Bill_James_Similarity_Index.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0025%20-%20Miscellaneous/Bill_James_Similarity_Index.rb) (10.7 KB)
+          - [combined_all_1.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0025%20-%20Miscellaneous/combined_all_1.rb) (733.3 KB)
+          - [dave.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0025%20-%20Miscellaneous/dave.rb) (1.0 KB)
+          - [hub.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0025%20-%20Miscellaneous/hub.rb) (3.5 KB)
+          - [ICM Ruby Tutorials.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0025%20-%20Miscellaneous/ICM%20Ruby%20Tutorials.rb) (2.0 KB)
+          - [Input Message Box.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0025%20-%20Miscellaneous/Input%20Message%20Box.rb) (734 B)
+          - [pudgy penguin subs.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0025%20-%20Miscellaneous/pudgy%20penguin%20subs.rb) (8.8 KB)
+          - [Sandbox.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0025%20-%20Miscellaneous/Sandbox.rb) (1.2 KB)
+        - **0026 - InfoSWMM Multi-Scenario Import/**
+          - [InfoSWMM_Import_Exchange.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0026%20-%20InfoSWMM%20Multi-Scenario%20Import/InfoSWMM_Import_Exchange.rb) (64.2 KB)
+          - [InfoSWMM_Import_UI.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/02%20SWMM/0026%20-%20InfoSWMM%20Multi-Scenario%20Import/InfoSWMM_Import_UI.rb) (20.7 KB)
+      - **04 Sample Database/**
+        - [3D clash detection.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/04%20Sample%20Database/3D%20clash%20detection.rb) (10.2 KB)
+        - [Auto Manhole Labels.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/04%20Sample%20Database/Auto%20Manhole%20Labels.rb) (10.6 KB)
+        - [Auto-profiling.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/04%20Sample%20Database/Auto-profiling.rb) (8.6 KB)
+        - [Bulk delete of scenarios.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/04%20Sample%20Database/Bulk%20delete%20of%20scenarios.rb) (2.5 KB)
+        - [Connect subcatchment to nearest node.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/04%20Sample%20Database/Connect%20subcatchment%20to%20nearest%20node.rb) (2.2 KB)
+        - [Design flows from population.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/04%20Sample%20Database/Design%20flows%20from%20population.rb) (11.3 KB)
+        - [Earthwork estimator for pipes and storage.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/04%20Sample%20Database/Earthwork%20estimator%20for%20pipes%20and%20storage.rb) (14.0 KB)
+        - [Find the longest upstream path of the selected node.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/04%20Sample%20Database/Find%20the%20longest%20upstream%20path%20of%20the%20selected%20node.rb) (1.8 KB)
+        - [Select bifurcation nodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/01%20Ruby/04%20Sample%20Database/Select%20bifurcation%20nodes.rb) (1.2 KB)
+    - **02 SQL/**
+      - **02 SWMM/**
+        - **0049 - Subcatchment LID or SUDs Coverage/**
+          - [hw_sql_suds_coverage.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/02%20SQL/02%20SWMM/0049%20-%20Subcatchment%20LID%20or%20SUDs%20Coverage/hw_sql_suds_coverage.rb) (555 B)
+        - **0050 - Kutter Sql for ICM SWMM/**
+          - [kutter_tm.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/02%20SQL/02%20SWMM/0050%20-%20Kutter%20Sql%20for%20ICM%20SWMM/kutter_tm.rb) (1.7 KB)
+    - **06 End-to-End Workflows/**
+      - **01 Automate and Publish to AGOL/**
+        - [Create and Run Simulations.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/06%20End-to-End%20Workflows/01%20Automate%20and%20Publish%20to%20AGOL/Create%20and%20Run%20Simulations.rb) (10.0 KB)
+        - [Download_NWS_Rainfall.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/06%20End-to-End%20Workflows/01%20Automate%20and%20Publish%20to%20AGOL/Download_NWS_Rainfall.rb) (11.8 KB)
+        - [Export 2D ICM Results.rb](https://github.com/innovyze/Open-Source-Support/blob/main/01%20InfoWorks%20ICM/06%20End-to-End%20Workflows/01%20Automate%20and%20Publish%20to%20AGOL/Export%202D%20ICM%20Results.rb) (14.9 KB)
+  - **02 InfoAsset Manager/**
+    - **01 Ruby/**
+      - **0001 ODEC Export/**
+        - [IE-odec_export_ex-CSV-MultipleNetworks.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001%20ODEC%20Export/IE-odec_export_ex-CSV-MultipleNetworks.rb) (1.7 KB)
+        - [IE-odec_export_ex-GDB-differencial.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001%20ODEC%20Export/IE-odec_export_ex-GDB-differencial.rb) (4.2 KB)
+        - [IE-odec_export_ex-SQLSERVER-differences.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001%20ODEC%20Export/IE-odec_export_ex-SQLSERVER-differences.rb) (4.5 KB)
+        - [IE-odec_export_ex-SQLSERVER.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001%20ODEC%20Export/IE-odec_export_ex-SQLSERVER.rb) (2.0 KB)
+        - [UI-odec_export_ex-SHP.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001%20ODEC%20Export/UI-odec_export_ex-SHP.rb) (1.7 KB)
+        - [UIIE-odec_export_ex-CSV.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001%20ODEC%20Export/UIIE-odec_export_ex-CSV.rb) (1.6 KB)
+        - [UIIE-odec_export_ex-GDB.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001%20ODEC%20Export/UIIE-odec_export_ex-GDB.rb) (2.1 KB)
+      - **0001A ODEC Callback Examples/**
+        - [ODEC_Exporter_DateConversion.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_DateConversion.rb) (370 B)
+        - [ODEC_Exporter_FieldUpperLowercase.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_FieldUpperLowercase.rb) (394 B)
+        - [ODEC_Exporter_Filter_CCTVSurveyAttachmentVideo.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_Filter_CCTVSurveyAttachmentVideo.rb) (253 B)
+        - [ODEC_Exporter_Filter_CCTVSurveyAttachmentXML.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_Filter_CCTVSurveyAttachmentXML.rb) (287 B)
+        - [ODEC_Exporter_Filter_CCTVSurveyCurrent.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_Filter_CCTVSurveyCurrent.rb) (168 B)
+        - [ODEC_Exporter_Filter_CCTVSurveyDefectCode.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_Filter_CCTVSurveyDefectCode.rb) (305 B)
+        - [ODEC_Exporter_Filter_CCTVSurveyDefectCodeExclude.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_Filter_CCTVSurveyDefectCodeExclude.rb) (398 B)
+        - [ODEC_Exporter_Filter_CCTVSurveyDefectImages.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_Filter_CCTVSurveyDefectImages.rb) (335 B)
+        - [ODEC_Exporter_Filter_CCTVSurveyDefectImagesCodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_Filter_CCTVSurveyDefectImagesCodes.rb) (478 B)
+        - [ODEC_Exporter_Filter_CCTVSurveyDefectImagesStructuralScore.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_Filter_CCTVSurveyDefectImagesStructuralScore.rb) (450 B)
+        - [ODEC_Exporter_Filter_Pipe-SystemType.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_Filter_Pipe-SystemType.rb) (177 B)
+        - [ODEC_Exporter_FilterFieldValue.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_FilterFieldValue.rb) (421 B)
+        - [ODEC_Exporter_FilterFieldValues.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_FilterFieldValues.rb) (596 B)
+        - [ODEC_Exporter_PipeFields.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_PipeFields.rb) (670 B)
+        - [ODEC_Exporter_SUMOfFields.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0001A%20ODEC%20Callback%20Examples/ODEC_Exporter_SUMOfFields.rb) (734 B)
+      - **0002 ODIC Import/**
+        - [IE-odic_import_ex-CSV.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002%20ODIC%20Import/IE-odic_import_ex-CSV.rb) (2.8 KB)
+        - [IE-odic_import_ex-GDB.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002%20ODIC%20Import/IE-odic_import_ex-GDB.rb) (2.7 KB)
+        - [IE-odic_import_ex-SHP.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002%20ODIC%20Import/IE-odic_import_ex-SHP.rb) (2.6 KB)
+        - [IE-odic_import_ex-SQLServer.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002%20ODIC%20Import/IE-odic_import_ex-SQLServer.rb) (3.4 KB)
+        - [UI-odic_import_ex-CSV.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002%20ODIC%20Import/UI-odic_import_ex-CSV.rb) (2.0 KB)
+        - [UI-odic_import_ex-GDB.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002%20ODIC%20Import/UI-odic_import_ex-GDB.rb) (2.3 KB)
+        - [UI-odic_import_ex-SHP.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002%20ODIC%20Import/UI-odic_import_ex-SHP.rb) (1.9 KB)
+        - [UI-odic_import_ex-SQLServer.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002%20ODIC%20Import/UI-odic_import_ex-SQLServer.rb) (2.7 KB)
+      - **0002A ODIC Callback Examples/**
+        - [ODIC_Importer_BEFDSS-ABS=video_file_in.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002A%20ODIC%20Callback%20Examples/ODIC_Importer_BEFDSS-ABS=video_file_in.rb) (866 B)
+        - [ODIC_Importer_BooleanConversion.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002A%20ODIC%20Callback%20Examples/ODIC_Importer_BooleanConversion.rb) (396 B)
+        - [ODIC_Importer_CCTVDirection.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002A%20ODIC%20Callback%20Examples/ODIC_Importer_CCTVDirection.rb) (517 B)
+        - [ODIC_Importer_ClearCellIfSourceNull.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002A%20ODIC%20Callback%20Examples/ODIC_Importer_ClearCellIfSourceNull.rb) (240 B)
+        - [ODIC_Importer_DateTimeFormat.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002A%20ODIC%20Callback%20Examples/ODIC_Importer_DateTimeFormat.rb) (439 B)
+        - [ODIC_Importer_Filter_SourceFieldValues.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002A%20ODIC%20Callback%20Examples/ODIC_Importer_Filter_SourceFieldValues.rb) (397 B)
+        - [ODIC_Importer_ImportField.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002A%20ODIC%20Callback%20Examples/ODIC_Importer_ImportField.rb) (216 B)
+        - [ODIC_Importer_PipeTypeChoices.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002A%20ODIC%20Callback%20Examples/ODIC_Importer_PipeTypeChoices.rb) (1.2 KB)
+        - [ODIC_Importer_SourceModifiedDate.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0002A%20ODIC%20Callback%20Examples/ODIC_Importer_SourceModifiedDate.rb) (450 B)
+      - **0003 Import an InfoWorks ICM Model into InfoAsset Manager/**
+        - [ICM_Out.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0003%20Import%20an%20InfoWorks%20ICM%20Model%20into%20InfoAsset%20Manager/ICM_Out.rb) (1.9 KB)
+        - [InfoAsset_In.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0003%20Import%20an%20InfoWorks%20ICM%20Model%20into%20InfoAsset%20Manager/InfoAsset_In.rb) (12.7 KB)
+      - **0004 GIS Export/**
+        - [IE-GIS_export-GDB.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0004%20GIS%20Export/IE-GIS_export-GDB.rb) (1.4 KB)
+        - [IE-GIS_export-SHP.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0004%20GIS%20Export/IE-GIS_export-SHP.rb) (1.4 KB)
+        - [UI-GIS_export.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0004%20GIS%20Export/UI-GIS_export.rb) (1.0 KB)
+      - **0005 Export Dashboard/**
+        - [IE-DashboardExport.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0005%20Export%20Dashboard/IE-DashboardExport.rb) (424 B)
+      - **0006 Import-Export Snapshot file/**
+        - [IE-Snapshot-Bulk-Import.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0006%20Import-Export%20Snapshot%20file/IE-Snapshot-Bulk-Import.rb) (1.2 KB)
+        - [IE-snapshot_export_ex.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0006%20Import-Export%20Snapshot%20file/IE-snapshot_export_ex.rb) (395 B)
+        - [UI-Snapshot-Bulk-Import-Filename.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0006%20Import-Export%20Snapshot%20file/UI-Snapshot-Bulk-Import-Filename.rb) (427 B)
+        - [UI-Snapshot-Bulk-Import-FolderSelect.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0006%20Import-Export%20Snapshot%20file/UI-Snapshot-Bulk-Import-FolderSelect.rb) (1.4 KB)
+        - [UI-Snapshot-Bulk-Import.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0006%20Import-Export%20Snapshot%20file/UI-Snapshot-Bulk-Import.rb) (1.1 KB)
+        - [UI-snapshot_export_ex.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0006%20Import-Export%20Snapshot%20file/UI-snapshot_export_ex.rb) (1.2 KB)
+      - **0007 Export to CSV/**
+        - [UI-CSV_export-selection.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0007%20Export%20to%20CSV/UI-CSV_export-selection.rb) (1.6 KB)
+        - [UI-CSV_export.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0007%20Export%20to%20CSV/UI-CSV_export.rb) (1.4 KB)
+        - [UIIE-CSV_export.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0007%20Export%20to%20CSV/UIIE-CSV_export.rb) (1.6 KB)
+      - **0008 Import-Export MSCC Survey Data/**
+        - [UI-mscc_export_cctv_surveys-IndividualFiles-IncLog.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0008%20Import-Export%20MSCC%20Survey%20Data/UI-mscc_export_cctv_surveys-IndividualFiles-IncLog.rb) (1.0 KB)
+        - [UI-mscc_export_cctv_surveys-IndividualFiles.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0008%20Import-Export%20MSCC%20Survey%20Data/UI-mscc_export_cctv_surveys-IndividualFiles.rb) (762 B)
+        - [UI-mscc_export_cctv_surveys-RunQuery-ExportIndividualFiles-IncLog.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0008%20Import-Export%20MSCC%20Survey%20Data/UI-mscc_export_cctv_surveys-RunQuery-ExportIndividualFiles-IncLog.rb) (1.1 KB)
+        - [UI-mscc_export_cctv_surveys-RunQuery-ExportIndividualFiles.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0008%20Import-Export%20MSCC%20Survey%20Data/UI-mscc_export_cctv_surveys-RunQuery-ExportIndividualFiles.rb) (899 B)
+        - [UIIE-mscc_export_cctv_surveys.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0008%20Import-Export%20MSCC%20Survey%20Data/UIIE-mscc_export_cctv_surveys.rb) (707 B)
+        - [UIIE-mscc_import_cctv_surveys.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0008%20Import-Export%20MSCC%20Survey%20Data/UIIE-mscc_import_cctv_surveys.rb) (1.1 KB)
+      - **0009 Import-Export MACP-PACP Survey Data/**
+        - [UI-PACP_export-BatchExport.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0009%20Import-Export%20MACP-PACP%20Survey%20Data/UI-PACP_export-BatchExport.rb) (1.1 KB)
+        - [UI-PACP_export-PACP_Ratings.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0009%20Import-Export%20MACP-PACP%20Survey%20Data/UI-PACP_export-PACP_Ratings.rb) (33.1 KB)
+        - [UIIE-MACP_export.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0009%20Import-Export%20MACP-PACP%20Survey%20Data/UIIE-MACP_export.rb) (1.0 KB)
+        - [UIIE-MACP_import-BulkImport.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0009%20Import-Export%20MACP-PACP%20Survey%20Data/UIIE-MACP_import-BulkImport.rb) (1.8 KB)
+        - [UIIE-MACP_import.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0009%20Import-Export%20MACP-PACP%20Survey%20Data/UIIE-MACP_import.rb) (1.2 KB)
+        - [UIIE-PACP_export-BatchExport.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0009%20Import-Export%20MACP-PACP%20Survey%20Data/UIIE-PACP_export-BatchExport.rb) (1.3 KB)
+        - [UIIE-PACP_export.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0009%20Import-Export%20MACP-PACP%20Survey%20Data/UIIE-PACP_export.rb) (1.1 KB)
+        - [UIIE-PACP_import_cctv_surveys.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0009%20Import-Export%20MACP-PACP%20Survey%20Data/UIIE-PACP_import_cctv_surveys.rb) (1.4 KB)
+      - **0010 Import-Export BEFDSS XML/**
+        - [IE-befdss_export.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0010%20Import-Export%20BEFDSS%20XML/IE-befdss_export.rb) (307 B)
+        - [IE-befdss_import_cctv-BulkImport.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0010%20Import-Export%20BEFDSS%20XML/IE-befdss_import_cctv-BulkImport.rb) (420 B)
+        - [IE-befdss_import_cctv.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0010%20Import-Export%20BEFDSS%20XML/IE-befdss_import_cctv.rb) (357 B)
+        - [IE-befdss_import_manhole_surveys.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0010%20Import-Export%20BEFDSS%20XML/IE-befdss_import_manhole_surveys.rb) (371 B)
+      - **0011 Find Duplicate IDs/**
+        - [UI-DuplicateAssetIDMultipleObjects.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0011%20Find%20Duplicate%20IDs/UI-DuplicateAssetIDMultipleObjects.rb) (1.4 KB)
+        - [UI-DuplicateLinkIDs.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0011%20Find%20Duplicate%20IDs/UI-DuplicateLinkIDs.rb) (222 B)
+      - **0012 Locate Missing Attachments on a Standalone Database/**
+        - [UI-MissingAttachmentLocate.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0012%20Locate%20Missing%20Attachments%20on%20a%20Standalone%20Database/UI-MissingAttachmentLocate.rb) (1.3 KB)
+      - **0013 Update from external CSV/**
+        - [UI-UpdateFromExternalCSV.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0013%20Update%20from%20external%20CSV/UI-UpdateFromExternalCSV.rb) (716 B)
+      - **0014 Network Trace/**
+        - [UI-IncidentTraceUpstream-Incident.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0014%20Network%20Trace/UI-IncidentTraceUpstream-Incident.rb) (930 B)
+        - [UI-NodeTraceUpDownstream_ExcludeBy_InvertLevel.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0014%20Network%20Trace/UI-NodeTraceUpDownstream_ExcludeBy_InvertLevel.rb) (1.1 KB)
+        - [UI-NodeTraceUpDownstream_ExcludeBy_PipeStatus.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0014%20Network%20Trace/UI-NodeTraceUpDownstream_ExcludeBy_PipeStatus.rb) (1.2 KB)
+        - [UI-NodeTraceUpDownstream_ExcludeBy_SumPipeLength.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0014%20Network%20Trace/UI-NodeTraceUpDownstream_ExcludeBy_SumPipeLength.rb) (1.5 KB)
+        - [UI-NodeTraceUpstream.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0014%20Network%20Trace/UI-NodeTraceUpstream.rb) (775 B)
+        - [UI-NodeTraceUpstream_FindNode_WriteToField.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0014%20Network%20Trace/UI-NodeTraceUpstream_FindNode_WriteToField.rb) (1.3 KB)
+        - [UI-PipesTraceUpstream_SumPipeLengths.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0014%20Network%20Trace/UI-PipesTraceUpstream_SumPipeLengths.rb) (1.4 KB)
+        - [UI-PipesTraceUpstream_SumPipeLengths_WriteToField.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0014%20Network%20Trace/UI-PipesTraceUpstream_SumPipeLengths_WriteToField.rb) (1.6 KB)
+        - [UI-PipeTraceUpstream_SaveToSelectionList.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0014%20Network%20Trace/UI-PipeTraceUpstream_SaveToSelectionList.rb) (1.4 KB)
+      - **0015 Export Choice List values/**
+        - [UI-ExportChoiceListValueCombinations.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0015%20Export%20Choice%20List%20values/UI-ExportChoiceListValueCombinations.rb) (669 B)
+        - [UI-ExportChoiceListValues.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0015%20Export%20Choice%20List%20values/UI-ExportChoiceListValues.rb) (1.3 KB)
+        - [UI-ExportObjectValuesChoiceDescriptions.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0015%20Export%20Choice%20List%20values/UI-ExportObjectValuesChoiceDescriptions.rb) (2.2 KB)
+      - **0016 Update an object with values of another object through comparison/**
+        - [UI-CopyGeneralSurveyAttachmentsToProperty.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0016%20Update%20an%20object%20with%20values%20of%20another%20object%20through%20comparison/UI-CopyGeneralSurveyAttachmentsToProperty.rb) (2.6 KB)
+        - [UI-CountConnections.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0016%20Update%20an%20object%20with%20values%20of%20another%20object%20through%20comparison/UI-CountConnections.rb) (749 B)
+        - [UI-CountRepairs.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0016%20Update%20an%20object%20with%20values%20of%20another%20object%20through%20comparison/UI-CountRepairs.rb) (836 B)
+        - [UI-UpdateBlockagePropertyID.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0016%20Update%20an%20object%20with%20values%20of%20another%20object%20through%20comparison/UI-UpdateBlockagePropertyID.rb) (567 B)
+        - [UI-UpdateObjectFromObject_ByPrompt_3.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0016%20Update%20an%20object%20with%20values%20of%20another%20object%20through%20comparison/UI-UpdateObjectFromObject_ByPrompt_3.rb) (3.6 KB)
+      - **0018 Identify OrphanedMissing AttachmentsVideos/**
+        - [IE-AttachmentCheck.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0018%20Identify%20OrphanedMissing%20AttachmentsVideos/IE-AttachmentCheck.rb) (5.0 KB)
+        - [IE-NonCurrentVideos.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0018%20Identify%20OrphanedMissing%20AttachmentsVideos/IE-NonCurrentVideos.rb) (2.3 KB)
+      - **0019 Distribute attachment details by a shared value/**
+        - [UI-PDFDistribute_Selection.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0019%20Distribute%20attachment%20details%20by%20a%20shared%20value/UI-PDFDistribute_Selection.rb) (1.3 KB)
+        - [UIIE-CCTVVideoDistribute_Multi.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0019%20Distribute%20attachment%20details%20by%20a%20shared%20value/UIIE-CCTVVideoDistribute_Multi.rb) (3.2 KB)
+        - [UIIE-PDFDistribute_Multi.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0019%20Distribute%20attachment%20details%20by%20a%20shared%20value/UIIE-PDFDistribute_Multi.rb) (3.3 KB)
+        - [UIIE-PDFDistribute_Single.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0019%20Distribute%20attachment%20details%20by%20a%20shared%20value/UIIE-PDFDistribute_Single.rb) (2.0 KB)
+      - **0020 Generate Individual Reports for a Selection of Objects/**
+        - [UI-Reports-CreateIndividualForSelection.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0020%20Generate%20Individual%20Reports%20for%20a%20Selection%20of%20Objects/UI-Reports-CreateIndividualForSelection.rb) (1.0 KB)
+        - [UI-Reports-CreateIndividualForSelection_folder.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0020%20Generate%20Individual%20Reports%20for%20a%20Selection%20of%20Objects/UI-Reports-CreateIndividualForSelection_folder.rb) (1.0 KB)
+        - [UI-Reports-CreateIndividualForSelection_FolderSelectOpen.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0020%20Generate%20Individual%20Reports%20for%20a%20Selection%20of%20Objects/UI-Reports-CreateIndividualForSelection_FolderSelectOpen.rb) (1.3 KB)
+      - **0022 Rename Exported Image & Attachment Files/**
+        - **ManholeSurvey/**
+          - [UI-ExportRenameManholeSurvey-SubFolders.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0022%20Rename%20Exported%20Image%20&%20Attachment%20Files/ManholeSurvey/UI-ExportRenameManholeSurvey-SubFolders.rb) (3.0 KB)
+          - [UI-ExportRenameManholeSurvey.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0022%20Rename%20Exported%20Image%20&%20Attachment%20Files/ManholeSurvey/UI-ExportRenameManholeSurvey.rb) (2.7 KB)
+        - [Callback.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0022%20Rename%20Exported%20Image%20&%20Attachment%20Files/Callback.rb) (392 B)
+        - [UI-FileRename_v4.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0022%20Rename%20Exported%20Image%20&%20Attachment%20Files/UI-FileRename_v4.rb) (1.9 KB)
+      - **0023 Rename Nodes & Links using Name Generation pattern/**
+        - [UI-RenameNodeLinks.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0023%20Rename%20Nodes%20&%20Links%20using%20Name%20Generation%20pattern/UI-RenameNodeLinks.rb) (234 B)
+      - **0024 Edit rows of a BLOB field/**
+        - [UI-DeleteRowsFromAttachmentsBlob.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0024%20Edit%20rows%20of%20a%20BLOB%20field/UI-DeleteRowsFromAttachmentsBlob.rb) (1021 B)
+        - [UI-ReorderCCTVSurveyDefectCodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0024%20Edit%20rows%20of%20a%20BLOB%20field/UI-ReorderCCTVSurveyDefectCodes.rb) (1.9 KB)
+        - [UI-ReverseOrderCCTVSurveyDefectCodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0024%20Edit%20rows%20of%20a%20BLOB%20field/UI-ReverseOrderCCTVSurveyDefectCodes.rb) (1.7 KB)
+      - **0025 Copy Network Attachments to Folder/**
+        - [IE-CopyNetworkAttachments.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0025%20Copy%20Network%20Attachments%20to%20Folder/IE-CopyNetworkAttachments.rb) (7.3 KB)
+        - [UI-CopyExport-VideoFileIn.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0025%20Copy%20Network%20Attachments%20to%20Folder/UI-CopyExport-VideoFileIn.rb) (1.0 KB)
+      - **0026 Select Isolated Nodes/**
+        - [UI-SelectIsolatedNodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0026%20Select%20Isolated%20Nodes/UI-SelectIsolatedNodes.rb) (214 B)
+      - **0027 Selection Lists/**
+        - [UI-CreateSelectionList.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0027%20Selection%20Lists/UI-CreateSelectionList.rb) (361 B)
+        - [UI-LoadSelectionList.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0027%20Selection%20Lists/UI-LoadSelectionList.rb) (537 B)
+        - [UI-SelectFromExternalCSV.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0027%20Selection%20Lists/UI-SelectFromExternalCSV.rb) (346 B)
+        - [UI-Sub_Selection_of_SelectionList.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0027%20Selection%20Lists/UI-Sub_Selection_of_SelectionList.rb) (572 B)
+      - **0028 Export Compare Network Versions to CSV/**
+        - [IE-csv_changes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0028%20Export%20Compare%20Network%20Versions%20to%20CSV/IE-csv_changes.rb) (269 B)
+      - **0029 List Database Objects Contents/**
+        - [IE-ExportAllNetworks.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0029%20List%20Database%20Objects%20Contents/IE-ExportAllNetworks.rb) (2.1 KB)
+        - [UIIE-DatabaseContents.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0029%20List%20Database%20Objects%20Contents/UIIE-DatabaseContents.rb) (1.2 KB)
+        - [UIIE-DatabaseSummary.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0029%20List%20Database%20Objects%20Contents/UIIE-DatabaseSummary.rb) (1.1 KB)
+      - **0030 List Network Fields-Structure/**
+        - [UI-ListCurrentNetworkFields.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0030%20List%20Network%20Fields-Structure/UI-ListCurrentNetworkFields.rb) (371 B)
+        - [UI-ListCurrentNetworkFieldStructure.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0030%20List%20Network%20Fields-Structure/UI-ListCurrentNetworkFieldStructure.rb) (544 B)
+      - **0031 Capacity Assurance White Paper/**
+        - [UI-CapacityAssuranceCalculation.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0031%20Capacity%20Assurance%20White%20Paper/UI-CapacityAssuranceCalculation.rb) (11.0 KB)
+      - **0033 Output the Array BLOB values as a clustered value/**
+        - [UI-CCTVSurvey-Details-write.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0033%20Output%20the%20Array%20BLOB%20values%20as%20a%20clustered%20value/UI-CCTVSurvey-Details-write.rb) (985 B)
+        - [UI-CCTVSurvey-Details.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0033%20Output%20the%20Array%20BLOB%20values%20as%20a%20clustered%20value/UI-CCTVSurvey-Details.rb) (772 B)
+        - [UI-Manhole-Hyperlinks.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0033%20Output%20the%20Array%20BLOB%20values%20as%20a%20clustered%20value/UI-Manhole-Hyperlinks.rb) (348 B)
+        - [UI-PipeClean-Pipes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0033%20Output%20the%20Array%20BLOB%20values%20as%20a%20clustered%20value/UI-PipeClean-Pipes.rb) (397 B)
+      - **0034 Display Export geometries/**
+        - [UI-ExportPipeArrayCSV.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0034%20Display%20Export%20geometries/UI-ExportPipeArrayCSV.rb) (644 B)
+        - [UI-SetFieldWithPipePointArray.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0034%20Display%20Export%20geometries/UI-SetFieldWithPipePointArray.rb) (352 B)
+      - **0035 Export CCTV Surveys to WSAA XML/**
+        - [UIIE-ExportCCTV_WSAAXML.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0035%20Export%20CCTV%20Surveys%20to%20WSAA%20XML/UIIE-ExportCCTV_WSAAXML.rb) (17.9 KB)
+      - **0036 Select Objects/**
+        - [UI-CCTVSurveyDetails.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0036%20Select%20Objects/UI-CCTVSurveyDetails.rb) (549 B)
+      - **0037 Create Objects/**
+        - [UI-CreateSurveyFromObject.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0037%20Create%20Objects/UI-CreateSurveyFromObject.rb) (519 B)
+        - [UIIE-CreateManhole.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0037%20Create%20Objects/UIIE-CreateManhole.rb) (468 B)
+      - **0038 Import INTERLIS survey details/**
+        - [UI-ImportINTERLISCCTVSurveyDetails.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0038%20Import%20INTERLIS%20survey%20details/UI-ImportINTERLISCCTVSurveyDetails.rb) (5.5 KB)
+        - [UI-ImportINTERLISManholeSurveyDetails.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0038%20Import%20INTERLIS%20survey%20details/UI-ImportINTERLISManholeSurveyDetails.rb) (5.7 KB)
+      - **0039 Pivot Tables/**
+        - [UI-CCTVSurveyCountSummary.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0039%20Pivot%20Tables/UI-CCTVSurveyCountSummary.rb) (1.6 KB)
+        - [UI-PipeClass.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0039%20Pivot%20Tables/UI-PipeClass.rb) (1.4 KB)
+      - **0040 Convert Coordinate Values/**
+        - [UI-WGS84_NAD83.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0040%20Convert%20Coordinate%20Values/UI-WGS84_NAD83.rb) (3.4 KB)
+        - [UI-WGS84_NAD83_PromptObjectType.rb](https://github.com/innovyze/Open-Source-Support/blob/main/02%20InfoAsset%20Manager/01%20Ruby/0040%20Convert%20Coordinate%20Values/UI-WGS84_NAD83_PromptObjectType.rb) (5.0 KB)
+  - **04 InfoWorks WS Pro/**
+    - **01 Ruby/**
+      - **Allocate Customer Points/**
+        - [allocate.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Allocate%20Customer%20Points/allocate.rb) (379 B)
+      - **Array to WSStructure/**
+        - [array_to_structure.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Array%20to%20WSStructure/array_to_structure.rb) (1.4 KB)
+      - **Clash Detection/**
+        - [3d_clash_detection.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Clash%20Detection/3d_clash_detection.rb) (10.2 KB)
+      - **Count Objects In Database/**
+        - [ui_count_objects_in_db.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Count%20Objects%20In%20Database/ui_count_objects_in_db.rb) (1.0 KB)
+      - **Demand Diagram Proxy/**
+        - [ddg.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Demand%20Diagram%20Proxy/ddg.rb) (5.5 KB)
+        - [example.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Demand%20Diagram%20Proxy/example.rb) (1.7 KB)
+      - **Draindown Calculator/**
+        - [drain_down_calculator.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Draindown%20Calculator/drain_down_calculator.rb) (35.3 KB)
+      - **Expand Short Links/**
+        - [ui_expand.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Expand%20Short%20Links/ui_expand.rb) (984 B)
+        - [ui_expand_and_simplify.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Expand%20Short%20Links/ui_expand_and_simplify.rb) (1.2 KB)
+      - **Export Results to CSV/**
+        - [ui_export.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Export%20Results%20to%20CSV/ui_export.rb) (856 B)
+      - **Flow Balance Error Report/**
+        - [Get_flow_error_at_nodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Flow%20Balance%20Error%20Report/Get_flow_error_at_nodes.rb) (1.8 KB)
+      - **Get Control RO from Network RO/**
+        - [ex_get_control_ro.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Get%20Control%20RO%20from%20Network%20RO/ex_get_control_ro.rb) (1.3 KB)
+      - **Get Model Objects from Run/**
+        - [ex_get_model_objects_from_run.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Get%20Model%20Objects%20from%20Run/ex_get_model_objects_from_run.rb) (1.3 KB)
+      - **Isolation Trace/**
+        - [ex_isolation_trace.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Isolation%20Trace/ex_isolation_trace.rb) (2.9 KB)
+      - **Miscellaneous/**
+        - [ui_reverse_links.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Miscellaneous/ui_reverse_links.rb) (434 B)
+        - [ui_simplify_links.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Miscellaneous/ui_simplify_links.rb) (268 B)
+      - **Modify and Run Model/**
+        - [modify_and_run.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Modify%20and%20Run%20Model/modify_and_run.rb) (3.2 KB)
+      - **Multi-Simulation Report/**
+        - [multi_simulation_report.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Multi-Simulation%20Report/multi_simulation_report.rb) (17.6 KB)
+      - **network-schematic/**
+        - [zone_schematic.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/network-schematic/zone_schematic.rb) (4.7 KB)
+        - [zone_schematic_helpers.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/network-schematic/zone_schematic_helpers.rb) (1.1 KB)
+        - [zone_schematic_html.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/network-schematic/zone_schematic_html.rb) (19.0 KB)
+        - [zone_schematic_network.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/network-schematic/zone_schematic_network.rb) (24.5 KB)
+      - **Patched find_model_object/**
+        - [find_model_object.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Patched%20find_model_object/find_model_object.rb) (831 B)
+        - [wsdatabase_patch.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Patched%20find_model_object/wsdatabase_patch.rb) (828 B)
+      - **Pressure Logger Locator/**
+        - [loggers_location.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Pressure%20Logger%20Locator/loggers_location.rb) (11.1 KB)
+      - **Snap pipe end to Nodes/**
+        - [ui_snap_pipes_to_nodes.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Snap%20pipe%20end%20to%20Nodes/ui_snap_pipes_to_nodes.rb) (1.6 KB)
+      - **Spatial Scripts/**
+        - [1_split_link_into_chunks.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Spatial%20Scripts/1_split_link_into_chunks.rb) (920 B)
+        - [2_split_links_around_node.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Spatial%20Scripts/2_split_links_around_node.rb) (399 B)
+        - [spatial.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Spatial%20Scripts/spatial.rb) (7.0 KB)
+      - **Tracing Techniques/**
+        - [ui_boundary_trace.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Tracing%20Techniques/ui_boundary_trace.rb) (2.4 KB)
+        - [ui_dijkstra_shortest_path.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/01%20Ruby/Tracing%20Techniques/ui_dijkstra_shortest_path.rb) (1.9 KB)
+    - **04 End-to-End Workflows/**
+      - **01 Automate and Publish to AGOL/**
+        - [WS_Pro_Create_and_Run_Weekly_Simulation.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/04%20End-to-End%20Workflows/01%20Automate%20and%20Publish%20to%20AGOL/WS_Pro_Create_and_Run_Weekly_Simulation.rb) (6.9 KB)
+        - [WS_Pro_Export_Simulation_Results_to_Shapefile.rb](https://github.com/innovyze/Open-Source-Support/blob/main/04%20InfoWorks%20WS%20Pro/04%20End-to-End%20Workflows/01%20Automate%20and%20Publish%20to%20AGOL/WS_Pro_Export_Simulation_Results_to_Shapefile.rb) (14.0 KB)
