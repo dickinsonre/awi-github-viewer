@@ -1,4 +1,3 @@
-# awi-github-viewer
 # AWI GitHub Viewer
 
 A single-file HTML viewer that maps and previews the entire [`innovyze/Open-Source-Support`](https://github.com/innovyze/Open-Source-Support) repository — the public collection of Ruby, SQL, Python, and VBScript tooling for Autodesk Water Infrastructure products (InfoWorks ICM, ICM SWMM, InfoAsset Manager, ICMLive, WS Pro, InfoWater Pro, and XPSWMM).
